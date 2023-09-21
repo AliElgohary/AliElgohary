@@ -73,18 +73,6 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AliElgohary/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/312iqytu5driw3jo63hhzqe4ryfa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
